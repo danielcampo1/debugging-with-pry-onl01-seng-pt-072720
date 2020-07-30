@@ -1,5 +1,5 @@
 require 'pry'
-require './pry_is_awesome.rb'
+require './lib/pry_is_awesome.rb'
 
 describe "#plus_two" do 
 	it "takes in a number as an argument and returns the sum of that number and 2" do
